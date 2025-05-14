@@ -7,8 +7,7 @@ This project uses a **CNN model (MobileNetV2)** trained on a **Kaggle dataset** 
 Users can **upload an image or use their webcam** to scan vegetables in real time.  
 
 🔗 **Live API:** [https://vegetable-scanner-api.onrender.com/docs](https://vegetable-scanner-api.onrender.com/docs)  
-🔗 **Live Frontend:** [https://vegetable-scanner.vercel.app](https://vegetable-scanner.vercel.app)  
-🔗 **GitHub Repo:** [https://github.com/GudiseMeghana/vegetable-scanner-api](https://github.com/GudiseMeghana/vegetable-scanner-api)  
+🔗 **Live Frontend:** [https://vegetable-scanner.vercel.app](https://vegetable-scanner.vercel.app)   
 
 ## Dataset
 
